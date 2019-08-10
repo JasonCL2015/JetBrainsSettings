@@ -1,0 +1,61 @@
+<keymap version="1" name="Eclipse (Mac OS X Jason.C)" parent="Eclipse (Mac OS X)">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="CompileProject">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="Console.Oracle.DbmsOutput" />
+  <action id="Debug" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="meta f11" />
+  </action>
+  <action id="JRebel Executor">
+    <keyboard-shortcut first-keystroke="shift meta f11" />
+  </action>
+  <action id="Maven.ReimportProject">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Run" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt space" />
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ToggleLineBreakpoint" />
+</keymap>

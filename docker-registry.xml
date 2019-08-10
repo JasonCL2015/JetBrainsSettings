@@ -1,0 +1,14 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="cuiliang8635@gmail.com">
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="jasoncui" />
+    </DockerRegistry>
+    <DockerRegistry email="cuiliang86@sohu.com">
+      <option name="address" value="registry.cn-hangzhou.aliyuncs.com" />
+      <option name="name" value="Aliyun" />
+      <option name="username" value="cuiliang86@sohu.com" />
+    </DockerRegistry>
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="file_tmp" type="PLAIN_TEXT" />
+      <mapping pattern="proxys" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="jasper" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

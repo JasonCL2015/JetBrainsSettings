@@ -1,0 +1,15 @@
+<templateSet group="myTemplate">
+  <template name="pvm" value="public void $VAR$() throws Exception {&#10;}" description="create a void method" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="prs" value="private String $VAR$;" description="create private String" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+</templateSet>

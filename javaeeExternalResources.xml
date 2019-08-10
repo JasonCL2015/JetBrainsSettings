@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://ibatis.apache.org/dtd/ibatis-3-config.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/d86d6899_ibatis-3-config.dtd" />
+    <resource url="http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/22160c18_ibatis-3-mapper.dtd" />
+  </component>
+</application>
