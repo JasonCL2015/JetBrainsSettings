@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="WJy9JyP-ySzv6FidnBAJ" />
+          <option name="apiUrl" value="https://git.ucharm-inc.com" />
+          <option name="repositoryUrl" value="git.ucharm-inc.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
