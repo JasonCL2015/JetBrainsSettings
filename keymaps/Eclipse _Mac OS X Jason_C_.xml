@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse (Mac OS X Jason.C)" parent="Eclipse (Mac OS X)">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -58,4 +61,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ToggleLineBreakpoint" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+  </action>
 </keymap>
