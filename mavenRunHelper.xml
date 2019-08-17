@@ -37,6 +37,9 @@
             <Goal>
               <option name="commandLine" value="springboot:run -DskipTests" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install deploy" />
+            </Goal>
           </list>
         </option>
       </Goals>
