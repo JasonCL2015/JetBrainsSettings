@@ -1,0 +1,19 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="**/*.js" />
+      </list>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.ucharm-inc.com" />
+          <token>df92df9edf9edfc8dfc9df9cdf9edf9edf9bdf92df98df93dfc8dfc9dfcbdfc9df9fdf9fdfc9df93dfcbdfcedf92dfcfdfc9dfcedfc9df98df9fdfcedf9ddf9bdf9cdfcbdfcfdf92dfc9df9edf92df9b</token>
+          <option name="name" value="UcharmSonar" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
