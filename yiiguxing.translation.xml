@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Silly equality checks should not be made" />
+      <item value="unrelated" />
       <item value="Preferred" />
       <item value="blocks" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
