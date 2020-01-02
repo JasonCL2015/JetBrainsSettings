@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../merchant-dal/src/main/java/com/ucharm/merchant/dal/domain/CompanyPO.java [merchant-dal]'" />
+    <option name="defaultScopeName" value="File '.../merchant-dal/src/main/java/com/ucharm/merchant/dal/domain/CompanyPO.java [merchant-dal]'" />
+    <option name="SEARCH_SCOPE" value="File '.../merchant-dal/src/main/java/com/ucharm/merchant/dal/domain/CompanyPO.java [merchant-dal]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
