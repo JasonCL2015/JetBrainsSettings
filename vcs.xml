@@ -18,6 +18,10 @@
           <option name="url" value="http://git.ucharm-inc.com" />
           <option name="userName" value="cuil" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.esupplychain.cn" />
+          <option name="userName" value="cuiliang" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/GitRepository" />
