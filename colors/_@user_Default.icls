@@ -3,7 +3,7 @@
     <property name="created">2019-06-17T23:40:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-17T23:47:20</property>
+    <property name="modified">2020-05-21T16:43:37</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -27,4 +27,9 @@
     <option name="FILESTATUS_changelistConflict" value="d73a49" />
     <option name="FILESTATUS_modifiedOutside" value="5cc5" />
   </colors>
+  <attributes>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
 </scheme>
