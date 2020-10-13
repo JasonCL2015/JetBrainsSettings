@@ -37,4 +37,16 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="rao" value="return APIResult.ok($VAR$);" description="返回APIResult.ok" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="rae" value="return APIResult.error($VAR$);" description="返回APIResult.error()" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
