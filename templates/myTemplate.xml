@@ -37,16 +37,20 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="rao" value="return APIResult.ok($VAR$);" description="返回APIResult.ok" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="ao" value="APIResult.ok();" description="Facade接口正确返回" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JAVA" value="true" />
       <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
     </context>
   </template>
-  <template name="rae" value="return APIResult.error($VAR$);" description="返回APIResult.error()" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="ar" value="APIResult.error(GlobalErrorCodeEnum.FAILED);" description="Facade接口错误返回" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JAVA" value="true" />
       <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
     </context>
   </template>
 </templateSet>
