@@ -13,6 +13,7 @@
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="Console.Oracle.DbmsOutput" />
+  <action id="Console.TableResult.SetNull" />
   <action id="Debug" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta equals" />
@@ -30,6 +31,9 @@
   </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="meta alt n" />
   </action>
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="meta f11" />
