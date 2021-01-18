@@ -12,7 +12,7 @@
     <option name="usedLanguages">
       <set>
         <option value="java" />
-        <option value="kotlin" />
+        <option value="javascript" />
       </set>
     </option>
   </component>
