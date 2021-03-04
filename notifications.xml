@@ -1,7 +1,7 @@
 <application>
   <component name="NotificationConfiguration" systemNotifications="false">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" shouldReadAloud="true" playSound="true" />
     <notification groupId="One Dark Theme" />
   </component>
 </application>
