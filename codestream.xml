@@ -1,5 +1,8 @@
 <application>
   <component name="CodeStream">
     <option name="firstRun" value="false" />
+    <option name="proxySupport" value="Off" />
+    <option name="serverUrl" value="http://192.168.110.60" />
+    <option name="team" value="Ucharm" />
   </component>
 </application>
