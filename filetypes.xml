@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="1#库位置状态" type="AUTO_DETECTED" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="proxys" type="PLAIN_TEXT" />
       <mapping pattern="file_tmp" type="PLAIN_TEXT" />
