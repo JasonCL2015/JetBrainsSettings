@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="1#库位置状态" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="proxys" type="PLAIN_TEXT" />
       <mapping pattern="file_tmp" type="PLAIN_TEXT" />
