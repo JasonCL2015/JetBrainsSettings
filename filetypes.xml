@@ -13,6 +13,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="jasoncui" type="PLAIN_TEXT" />
       <mapping ext="hc" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
